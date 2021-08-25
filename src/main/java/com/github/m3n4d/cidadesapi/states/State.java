@@ -1,4 +1,4 @@
-package com.github.m3n4d.cidadesapi.staties;
+package com.github.m3n4d.cidadesapi.states;
 
 import com.github.m3n4d.cidadesapi.countries.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;

@@ -1,4 +1,4 @@
-package com.github.m3n4d.cidadesapi.staties;
+package com.github.m3n4d.cidadesapi.states;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
